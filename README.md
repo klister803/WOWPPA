@@ -5,8 +5,11 @@ Primeiramente, o bugtracker é usado para reportar bugs , não para fazer pergun
 
 Vamos aos exemplos, temos varias TAGS para serem usadas no TITULO
 [QUEST] > Para bugs de quest
+
 [Dungeon] > Para bugs de DG
+
 [Balanceamento] > Para problemas com balanceamento
+
 [RAID] > Para problemas com Raid
 
 Para reportar você deve ter em mãos os seguintes dados
